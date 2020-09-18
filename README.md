@@ -1,25 +1,22 @@
 # Pokemon Recreation
-Recreated Pokemon-like game using object-oriented programming in Java and open-source animation IDE Processing
+
+## Description
+I recreated a Pokemon-like game using object-oriented programming in Java and open-source graphical library and IDE, Processing.
+In terms of controls, use the arrow keys to move the character around the map and click on buttons for all other actions. 
 
 ## Installing
 * Requires Processing version 3.5.4 or higher
-* Install libraries Minim and controlP5
-```
-import ddf.minim.*;
-Minim minim;
-import controlP5.*;
-ControlP5 cp5;
-```
+* Install necessary libraries by going to Sketch, Import Library..., Add Library... and then installing Minim and ControlP5
 
-## Screenshots
-Start with a tutorial on the controls and plot of the game, and choose your starter pokemon. 
-![](Screenshots/Tutorial_screenshot.png)
+## Demo
+### Start with a tutorial on the controls and plot of the game, as well as choosing your starter pokemon. 
+![](Screenshots/Tutorial_screenshot.png) </br></br>
 
-Move around the map with arrowkeys, enter buildings and stand in the grass to challenge pokemon. 
-![](Screenshots/Map_screenshot.png)
+### Move around the map with arrowkeys, enter buildings and stand in the grass to challenge pokemon. 
+![](Screenshots/Map_screenshot.png) </br></br>
 
-Enter battle and choose between fighting, running, switching your pokemon or capturing the pokemon. 
-![](Screenshots/Battle_screenshot.png)
+### Enter battle and choose between fighting, running, switching your pokemon or capturing the opposing pokemon. 
+![](Screenshots/Battle_screenshot.png) </br></br>
 
-Play as the pokemon you capture with different animations for each move! 
+### Battle with pokemon you previously captured with unique animations for each move! 
 ![](Screenshots/Battle2_screenshot.png)
