@@ -6,7 +6,7 @@ In terms of controls, use the arrow keys to move the character around the map an
 
 ## Installing
 * Requires Processing version 3.5.4 or higher
-* Install necessary libraries by going to Sketch, Import Library..., Add Library... and then installing Minim and ControlP5
+* Install necessary libraries by going to Sketch, Import Library, Add Library and then installing Minim and ControlP5
 
 ## Demo
 ### Start with a tutorial on the controls and plot of the game, as well as choosing your starter pokemon. 
@@ -18,5 +18,5 @@ In terms of controls, use the arrow keys to move the character around the map an
 ### Enter battle and choose between fighting, running, switching your pokemon or capturing the opposing pokemon. 
 ![](Screenshots/Battle_screenshot.png) </br></br>
 
-### Battle with pokemon you previously captured with unique animations for each move! 
+### Play with pokemon you previously captured and try out every move to see all the unique animations! 
 ![](Screenshots/Battle2_screenshot.png)
